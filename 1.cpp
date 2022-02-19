@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-  cout<<"Hello VSCode";
-    return 0;
+  int a,b;
+  cin>>a>>b;
+  int sum = a+b;
+  cout<<"Sum ="<<sum;
+  return 0;
 }
