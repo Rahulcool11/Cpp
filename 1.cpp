@@ -3,7 +3,7 @@ using namespace std;
 int main(){
   int a,b;
   cin>>a>>b;
-  int sum = a+b;
-  cout<<"Sum ="<<sum;
+  int product = a*b; // This line calculates the product
+  cout<<"produce ="<< product;
   return 0;
 }
